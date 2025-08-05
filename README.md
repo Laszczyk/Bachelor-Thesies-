@@ -1,0 +1,9 @@
+In today's era of digital transformation, the application of machine learning methods has become an integral part of analyzing and processing vast amounts of data across various fields. One area where these techniques have found practical use is in predicting football match outcomes. The motivation behind choosing this topic stems from the growing interest in sports data analysis, aimed at gaining a competitive edge and a better understanding of the factors influencing match results.
+
+The aim of this thesis is to examine the effectiveness of supervised learning methods in predicting football match outcomes and to assess whether these techniques can provide an advantage over bookmaker odds using publicly available data.
+
+The study begins with an introduction to the cognitive context and a discussion of key concepts related to machine learning. It outlines the stages of the machine learning process and presents essential metrics used to evaluate model performance. A review of existing research on football match prediction is then provided. The dataset used in the analysis is described in detail, followed by the application and comparison of three supervised learning methods: decision trees, random forests, and gradient boosting. These methods were chosen due to their interpretability and ability to handle complex data structures, which are typical for sports outcomes.
+
+The analysis uses football data obtained from publicly available datasets provided by Football-Data and Transfermarkt. These sources were selected due to the breadth of information they offer and their credibility. The next step involved conducting a comprehensive data analysis, including descriptive statistics, correlation analysis, and identification of outliers.
+
+In the final stage of the study, the implemented models are presented. The results obtained are compared with one another and evaluated against bookmaker odds.
